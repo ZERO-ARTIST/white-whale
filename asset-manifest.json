@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/white-whale/static/css/main.64efe0e1.chunk.css",
+    "main.js": "/white-whale/static/js/main.5f29ba21.chunk.js",
+    "main.js.map": "/white-whale/static/js/main.5f29ba21.chunk.js.map",
+    "runtime-main.js": "/white-whale/static/js/runtime-main.63b7bf3c.js",
+    "runtime-main.js.map": "/white-whale/static/js/runtime-main.63b7bf3c.js.map",
+    "static/js/2.eb227b69.chunk.js": "/white-whale/static/js/2.eb227b69.chunk.js",
+    "static/js/2.eb227b69.chunk.js.map": "/white-whale/static/js/2.eb227b69.chunk.js.map",
+    "static/js/3.cc90979a.chunk.js": "/white-whale/static/js/3.cc90979a.chunk.js",
+    "static/js/3.cc90979a.chunk.js.map": "/white-whale/static/js/3.cc90979a.chunk.js.map",
+    "index.html": "/white-whale/index.html",
+    "static/css/main.64efe0e1.chunk.css.map": "/white-whale/static/css/main.64efe0e1.chunk.css.map",
+    "static/js/2.eb227b69.chunk.js.LICENSE.txt": "/white-whale/static/js/2.eb227b69.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.63b7bf3c.js",
+    "static/js/2.eb227b69.chunk.js",
+    "static/css/main.64efe0e1.chunk.css",
+    "static/js/main.5f29ba21.chunk.js"
+  ]
+}
